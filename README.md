@@ -1,0 +1,1 @@
+# zitadel-go-secret-api
